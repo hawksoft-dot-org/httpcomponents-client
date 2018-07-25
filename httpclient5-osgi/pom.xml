@@ -47,6 +47,11 @@
 
   <dependencies>
     <dependency>
+      <groupId>com.adobe.xmp</groupId>
+      <artifactId>xmpcore</artifactId>
+      <version>5.1.0</version>
+    </dependency>
+    <dependency>
       <groupId>org.apache.httpcomponents.client5</groupId>
       <artifactId>httpclient5</artifactId>
       <version>${project.version}</version>
